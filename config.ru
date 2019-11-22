@@ -35,7 +35,7 @@ map '/' do
   <title>Welcome to OpenShift</title>
 </head>
 <body>
-hi, zed
+hi, zed.
 </body>
 </html>
 WELCOME_CONTENTS
